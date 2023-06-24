@@ -3,6 +3,6 @@
     "activityInterval": 5,
     "botMainColor": "0xff5454",
     "botErrorColor": "0xdb3535",
-    "token": "NTI0MjAyMjAxNzc0Njg2MjA4.GctMYh.bSkcEK9aMP5JXUVqvV4Hhd9W-fuH3xuKFKYSl0",
+    "token": "TOKEN",
     "mongodb": ""
 }
